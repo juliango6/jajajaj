@@ -1,0 +1,31 @@
+#cabecera {
+	margin: auto;
+	text-align: center;
+	background-color: #4f6367;
+	color: #fff;
+}
+
+#menu {
+	background-color: #7a9e9f;
+	width: 100%
+}
+
+#menu ul{
+	margin: auto;
+	/*text-align: center;	*/
+}
+
+#menu ul li {
+	display: inline-block;
+	list-style: none;
+	padding: 10px;
+}
+
+#menu ul li a{
+	color: #eef5db;
+	text-decoration: none;
+}
+
+section{
+	padding: 15px;
+}
